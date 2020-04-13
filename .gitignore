@@ -4,3 +4,4 @@ __pycache__
 .vscode
 chromedriver/
 chromedriver1/
+.ipynb_checkpoints
