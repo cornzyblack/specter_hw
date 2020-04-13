@@ -167,7 +167,6 @@ def a_href_checker_selenium(domain: str) -> Dict:
     except Exception as e:
         print("Error ", e)
         logging.exception(site_url)
-        driver.quit()
 
     logging.shutdown()
 
