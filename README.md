@@ -15,6 +15,7 @@ This Project requires that you have Python 3.8.1 installed. If you do not have i
 To run the second scraper, you need to have Chrome and ChromeDriver installed. You can see here for how to download [Google Chrome](https://www.google.com/chrome/) and [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 ## To Setup a Python 3  Virtual  Environment
+After you have installed Python, you can run the following in your Terminal
 
 ```python3 -m venv /path/to/new/virtual/environment```
 
@@ -24,6 +25,7 @@ Example:
 
 ## Activate Virtual Environment
 
+Run the following in your Command prompt /Terminal
 ### For Windows
 ```bash
 source /path/to/new/virtual/environment/Scripts/activate
